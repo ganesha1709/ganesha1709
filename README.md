@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ganesha1709/web-app/main/assets/banner.png" alt="Ganesha Mohan Banner" />
+  <img src="https://raw.githubusercontent.com/ganesha1709/web-app/main/assets/banner.webp" alt="Ganesha Mohan Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ganesha</h1>
