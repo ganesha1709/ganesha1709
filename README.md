@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ganesha1709/web-app/main/assets/banner2.gif" alt="Ganesha Mohan Banner" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Ganesha</h1>
 <h3 align="center">A passionate AI/ML & UI/UX Enthusiast 🚀</h3>
