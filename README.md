@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ganesha Mohan</h1>
-<h3 align="center">AI Enthusiast • Full-Stack Web Developer • Engineering Explorer</h3>
+<h3 align="center">AI Enthusiast • Engineering Explorer</h3>
 
 ---
 
