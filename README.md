@@ -7,7 +7,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Pursuing **B.E. in Computer Science** at **NIE, Mysuru** (CGPA: **9.36**)
+- 🎓 Pursuing **B.E. in Computer Science** at **NIE, Mysuru** 
 - 🧠 Passionate about **AI/ML**, full-stack development, and solving real-world problems
 - 🏆 1st Prize Winner – National Hackathon **Hackshetra**, VVCE (AI Theme)
 - 🧑‍🎨 Creativity & Documentation Lead – **IEEE Student Branch, NIE**
