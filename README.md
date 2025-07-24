@@ -1,74 +1,96 @@
-
-# 🚀 GANESHA M: README.md
-
-> **Quantum Leap:**  
-> Forged a CNN model from scratch to diagnose breast cancer through thermal imaging—transforming raw medical data into clinical insight and delivering interpretability where black-box AI once ruled.
+<h1 align="center">Hi 👋, I'm Ganesha Mohan</h1>
+<h3 align="center">AI Enthusiast • Full-Stack Web Developer • Engineering Explorer</h3>
 
 ---
 
-## ✨ Skill Constellation
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" />
 
-### **Architectural Pillars** *(Foundational Strength)*  
-*“My Python, Java, and C form the bedrock upon which intricate systems rise—unshakable, structured, and scalable.”*
+### 🧑‍💻 About Me
 
-### **Creative Alchemy** *(Intuitive Innovation)*  
-*“In the crucible of design, I fuse React.js with Tailwind CSS to shape experiences that don’t just look good—they *feel* right.”*
-
-### **Precision Tools** *(Refined Craftsmanship)*  
-*“With SQL and MongoDB, I uncover patterns in noise, like a cartographer drawing order on an uncharted digital landscape.”*
-
-### **Data Realms** *(Cognitive Edge)*  
-*“My alliance with NumPy, Pandas, and Scikit-learn gives me a lens—turning chaos into clarity, and insights into action.”*
-
-### **Deployment Arsenal** *(Execution Mastery)*  
-*“From Vercel to Netlify, GitHub Pages to Render—I launch ideas into the world with a single push.”*
+- 🎓 Pursuing **B.E. in Computer Science** at **NIE, Mysuru** (CGPA: **9.36**)
+- 🧠 Passionate about **AI/ML**, full-stack development, and solving real-world problems
+- 🏆 1st Prize Winner – National Hackathon **Hackshetra**, VVCE (AI Theme)
+- 🧑‍🎨 Creativity & Documentation Lead – **IEEE Student Branch, NIE**
+- 💼 Council Member – **Tinkerers’ Lab**, NIE
+- 📊 Design Core – **Credit Circle**, NIE
 
 ---
 
-## 🎥 Project Odyssey
+### 💻 Tech Stack
 
-### 🔬 **Breast Cancer Detection from Thermal Images Using Custom CNN**
-
-**The Dragon:** Diagnosing cancer through non-invasive thermographic imaging, challenged by data scarcity and black-box models.  
-**The Weapon:** Built a lightweight CNN from scratch with adaptive regularization, Grad-CAM interpretability, and clinical-grade precision.  
-**The Treasure:** Achieved robust classification while ensuring model transparency—empowering doctors with both decision *and* understanding.
-
----
-
-### 🏫 **Classroom Tracker | MERN Stack**
-
-**The Dragon:** Fragmented classroom usage and inefficient scheduling at a top institution.  
-**The Weapon:** Developed a responsive web app with real-time availability, secure admin control via JWT, and a sleek UI powered by Tailwind.  
-**The Treasure:** Streamlined campus room management—saving time, reducing clashes, and enhancing student-faculty productivity.
+| Category         | Technologies |
+|------------------|--------------|
+| **Languages**     | Python, Java, C, HTML, CSS |
+| **Frontend**      | React.js, Tailwind CSS, JavaScript |
+| **Backend**       | Node.js, Express.js, Django, Flask |
+| **Databases**     | MongoDB, MySQL, SQLite |
+| **ML Libraries**  | NumPy, Pandas, Scikit-learn, PyTorch |
+| **Tools**         | Git, GitHub, VS Code, Postman, Jupyter, Google Colab |
+| **Deployment**    | Netlify, Render, Vercel, GitHub Pages |
+| **Concepts**      | REST APIs, OOP, DSA, OS, DBMS, CN, CNN, Grad-CAM |
 
 ---
 
-### 💊 **Pharmaceutical Inventory Manager | SQL + Django**
+### 🚀 Projects
 
-**The Dragon:** Manual, error-prone inventory and billing in the medical domain.  
-**The Weapon:** Engineered an end-to-end platform to automate transactions, generate precise bills, and maintain real-time medicine logs.  
-**The Treasure:** Delivered operational efficiency to critical healthcare environments—where every second, and every pill, counts.
+#### 📚 Classroom Tracker – MERN Stack  
+> Real-time classroom availability web app with JWT-authenticated admin panel  
+> `React.js • Node.js • Express.js • MongoDB • JWT • Tailwind CSS`
 
----
+#### 🧬 Breast Cancer Detection  
+> Custom CNN model trained on thermal images with Grad-CAM for explainability  
+> `PyTorch • Flask • NumPy • Pandas • Sklearn • Grad-CAM`
 
-## 🌌 Future Trajectory Manifesto
-
-I am not building software—I am building *possibility*. I see a future where intuitive AI systems not only predict but *explain*, where tech amplifies human empathy, and where product design isn’t just beautiful—but meaningful.
-
-My mission is to craft systems that resonate with both logic and emotion. I aspire to contribute to innovations that save lives, spark creativity, and leave a dent in the universe of human-computer symbiosis.
-
-The legacy I aim to leave? **A world where intelligence feels human.**
+#### 💊 Medicine Management System  
+> Pharmacy billing and inventory system with structured database integration  
+> `Django • SQLite • HTML • CSS • JavaScript`
 
 ---
 
-## 🪄 Easter Egg: Call to Connect
+### 📊 GitHub Stats
 
-Want to trace the algorithms behind the ambition?  
-👉 Dive into the source where logic meets life: [github.com/ganesha1709](https://github.com/ganesha1709)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ganesha1709&show_icons=true&theme=tokyonight" alt="Ganesha's GitHub Stats" />
+</p>
 
-Or decode the vision that shapes every line of code: [linkedin.com/in/ganeshamohan062](https://www.linkedin.com/in/ganeshamohan062)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganesha1709&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesha1709&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-_This README isn’t a document—it’s a declaration._  
-*Welcome to Ganesha M's universe.*
+### 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ganesha1709&theme=tokyonight&no-frame=true&column=7" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ganeshamohan062" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:2022cs_ganesham_b@nie.ac.in">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ganesha1709">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+### 💡 Fun Facts
+
+- 🎨 I love **drawing and painting** in my free time  
+- 🧘 I practice **yoga** and play **badminton & table tennis**  
+- 🌱 Currently learning advanced **AI model building** and **system design**
+
+---
